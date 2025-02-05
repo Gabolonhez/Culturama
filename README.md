@@ -8,10 +8,9 @@ Site sobre programção de eventos culturais, categorias, local e agendas.
 
 ## 🎯 Funcionalidades
 
-- [x] `Pesquisar sobre eventos de cultura`: pesquise sobre eventos culturais que irão ocorrer e coloque na sua agenda. 
+- [x] Pesquisar sobre eventos culturais que irão ocorrer e verificar as agendas. 
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
-
-`CSS`: Utilizado para estilização da interface do aplicativo.
+- `HTML`
+- `CSS`
