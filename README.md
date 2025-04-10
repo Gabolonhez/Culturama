@@ -4,7 +4,7 @@
 
 ## 📑 Descrição
 
-Site sobre programção de eventos culturais, categorias, local e agendas.
+Site sobre programação de eventos culturais, categorias, local e agendas.
 
 ## 🎯 Funcionalidades
 
